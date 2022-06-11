@@ -8,7 +8,7 @@ Welcome to my profile! I'm a full-stack developer that is based out of Orlando. 
 
 <p align="center">
   <a href="https://skillicons.dev/%22%3E
-    <img src="https://skillicons.dev/icons?i=react,angular,svelte,electron,redux,html,css,sass,tailwind,flask,py,js,ts,nodejs,express,mysql,firebase,gcp,aws,mongodb,solidity,remix,git,jest&perline=7" />
+    <img src="https://skillicons.dev/icons?i=react,angular,svelte,electron,redux,html,css,sass,tailwind,flask,py,js,ts,nodejs,express,mysql,firebase,gcp,aws,mongodb,solidity,remix,git,jest" />
   </a>
 </p>
                                                                                                                                            
