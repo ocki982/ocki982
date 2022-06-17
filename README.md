@@ -9,7 +9,7 @@ Welcome to my profile! I'm a full-stack developer that is based out of Californi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,electron,redux,html,css,sass,tailwind,py,js,ts,nodejs,express,mysql,firebase,aws,mongodb,git&perline=9"/>
+    <img src="https://skillicons.dev/icons?i=react,html,css,sass,tailwind,py,js,ts,nodejs,mysql,firebase,mongodb,git&perline=7"/>
   </a>
 </p>
                                                                                                                                            
