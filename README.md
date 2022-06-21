@@ -1,10 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="24px" width="24px">
 
-Welcome to my profile! I'm a full-stack developer based out of California. Talk to me about: 
+Welcome to my profile! I'm a full-stack developer based on California. Talk to me about: 
 * Front-End Development: React, Angular, HTML5, CSS3, SASS, Tailwind
-* Back End Development: Express, Node, mySQL, Firebase, Mongo DB
+* Back End Development: Express, Node, mySQL, Mongo DB
 * Cloud Services: AWS, Heroku, Netlify
-* Libraries: Leaflet, React-Router-Dom, ReactJS-Popup, D3, Hardhat, Ethers, React-Tables 
+* Libraries: Leaflet, D3, Hardhat, Ethers, React-Tables 
 * Blockchain: Solidity
 
 <p align="center">
