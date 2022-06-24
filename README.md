@@ -4,7 +4,7 @@ Welcome to my profile! I'm a full-stack developer based on California. Talk to m
 * Front-End Development: React, Angular, HTML5, CSS3, SASS, Tailwind
 * Back End Development: Express, Node, mySQL, Mongo DB
 * Cloud Services: AWS, Heroku, Netlify, Google Cloud
-* Libraries: Leaflet, D3, Hardhat, Ethers, React-Tables 
+* Libraries: D3, Hardhat, Ethers, React-Tables 
 * Blockchain: Solidity
 
 <p align="center">
